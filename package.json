@@ -26,16 +26,16 @@
   "license": "MIT",
   "devDependencies": {
     "@eslint/js": "9.24.0",
-    "@playwright/test": "1.51.1",
+    "@playwright/test": "1.52.0",
     "@types/node": "22.14.1",
-    "@vitest/eslint-plugin": "1.1.42",
+    "@vitest/eslint-plugin": "1.2.1",
     "eslint": "9.24.0",
     "eslint-import-resolver-typescript": "4.3.2",
     "eslint-plugin-import": "2.31.0",
     "eslint-plugin-react": "7.37.5",
     "eslint-plugin-react-hooks": "5.2.0",
     "prettier": "3.5.3",
-    "turbo": "2.5.0",
+    "turbo": "2.5.4",
     "typescript": "5.7.3",
     "typescript-eslint": "8.29.1"
   }
